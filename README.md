@@ -42,10 +42,13 @@ The project focuses on **autonomous driving fundamentals** such as path planning
 ---
 
 ## 🎥 Demo Video
+## 🎥 Demo Video
 
-Below is a short demo of the **Automated Parking Path Planning Simulator**, showing collision-free parking trajectory generation using **A\*** path planning.
+Below is a short demo of the **Automated Parking Path Planning Simulator**, showing
+collision-free parking trajectory generation using **A\*** path planning.
 
-<video src="./DEMO.mp4" controls muted playsinline width="100%"></video>
+▶️ **[Click here to watch the demo video](./DEMO.mp4)**
+
 
 ---
 
